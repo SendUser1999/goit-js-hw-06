@@ -12,5 +12,3 @@ input.addEventListener('blur', () => {
         input.classList.remove("valid");
     }
 });
-console.log(inputLength);
-console.log(dataValue);
